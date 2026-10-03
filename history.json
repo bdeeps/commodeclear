@@ -1,0 +1,1035 @@
+{
+  "title": "The history of the flush toilet",
+  "tagline": "4,500 years from brick drains in the Indus cities to seats that wash, and the unfinished work of a safe toilet for everyone.",
+  "intro": "People have used water to carry waste away for thousands of years, but a pipe that lets water out also lets foul air back in. In 1775 a watchmaker bent the pipe into an S, so that a little water always stayed in it as a seal. Potters, plumbers and engineers then built the pedestal, the cistern and the sewers around that idea. Today the work is to flush with far less water, and to bring a safe toilet to the billions of people who still do not have one.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Water carries it away",
+      "from": -2600,
+      "to": 1500,
+      "color": "#c49bff",
+      "summary": "Indus cities, Crete, China and Rome use poured or running water and drains. There is no water seal, and most people use pits and pots."
+    },
+    {
+      "id": "closet",
+      "name": "The water closet",
+      "from": 1590,
+      "to": 1850,
+      "color": "#ffb547",
+      "summary": "A cistern, a valve and then the S-bend trap turn the privy into a machine that flushes and keeps smells out."
+    },
+    {
+      "id": "sewers",
+      "name": "Sewers and porcelain",
+      "from": 1850,
+      "to": 1910,
+      "color": "#ff7a59",
+      "summary": "Cholera and the Great Stink force cities to build sewers. Potters make the one-piece ceramic pedestal, and the siphon arrives in bowls and cisterns."
+    },
+    {
+      "id": "saving",
+      "name": "Less water, more comfort",
+      "from": 1950,
+      "to": 2010,
+      "color": "#5ce1a9",
+      "summary": "Better fill valves, dual flush, legal limits on water per flush, vacuum toilets and the electronic seat."
+    },
+    {
+      "id": "everyone",
+      "name": "A toilet for everyone",
+      "from": 1970,
+      "to": 2026,
+      "color": "#7aa2ff",
+      "summary": "Pour-flush pits, new laws, bio-toilets and huge building drives aim to end open defecation and work that robs people of dignity."
+    }
+  ],
+  "events": [
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "ancient",
+      "art": "block",
+      "key": true,
+      "title": "Toilets and brick drains in the Indus cities",
+      "who": "Indus Valley builders",
+      "where": "Mohenjo-daro and Lothal (today Pakistan and India)",
+      "country": "Pakistan and India",
+      "text": "In Indus cities such as Mohenjo-daro, several courtyard houses had a washing platform and a toilet hole. The toilet was flushed by emptying a jar of water, which ran through a clay brick pipe into a shared brick drain and on to a soak pit. At Lothal, houses on the acropolis drained into a covered brick sewer.",
+      "why": "Pour in water, let a sloping drain carry the waste away: it is the idea behind every flush toilet and sewer since.",
+      "box": "drain",
+      "sources": [
+        2,
+        1
+      ]
+    },
+    {
+      "year": -1700,
+      "date": "c. 1700 BCE (dates vary)",
+      "era": "ancient",
+      "art": "flask",
+      "title": "A flushed seat in the palace of Knossos",
+      "who": "Minoan builders",
+      "where": "Knossos, Crete",
+      "country": "Greece",
+      "text": "A ground-floor room in the palace of Knossos has been identified as a toilet with a wooden seat. Water was poured through a hole in the floor just outside the door. A channel under the floor carried it to a clay pipe below the seat and flushed it out.",
+      "why": "It is one of the oldest known toilets flushed with water, and it worked just like today's pour-flush pans.",
+      "sources": [
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "year": -600,
+      "date": "c. 600 BCE",
+      "era": "ancient",
+      "art": "wave",
+      "title": "Rome's great drain",
+      "who": "Roman builders (tradition credits King Tarquinius Priscus)",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "The Cloaca Maxima began as open channels that drained the marshy ground around the Forum. Over time it was built over and became a covered sewer that emptied into the River Tiber. Parts of it still carry rainwater today.",
+      "why": "It showed that a city needs big shared drains, not just private pits.",
+      "box": "drain",
+      "sources": [
+        4,
+        6
+      ]
+    },
+    {
+      "year": -400,
+      "date": "c. 400–200 BCE",
+      "era": "ancient",
+      "art": "scroll",
+      "title": "A palace toilet with a drain pipe",
+      "who": "Builders of the Qin palace at Yueyang",
+      "where": "Yueyang (today Xi'an, Shaanxi)",
+      "country": "China",
+      "text": "Archaeologists digging in palace ruins at Yueyang found the broken parts of a toilet bowl and a bent pipe. The toilet sat on a platform indoors, and the pipe below led the waste outside. They announced the find in February 2023 and dated it to about 2,400 years ago.",
+      "why": "Flushing with water was thought of in many places, long before anyone could buy a toilet.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 100,
+      "date": "1st–5th centuries CE",
+      "era": "ancient",
+      "art": "person",
+      "title": "Roman public latrines",
+      "who": "Roman townspeople and soldiers",
+      "where": "Roman Empire",
+      "country": "Italy",
+      "text": "Roman public latrines had long bench seats with keyhole-shaped openings, set in rows. They did not flush in the modern sense. A stream of water ran all the time in a channel underneath and carried the waste away.",
+      "why": "Running water did the cleaning, but there was no water seal to hold back the smell of the sewer.",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1200,
+      "date": "c. 1100–1500",
+      "era": "ancient",
+      "art": "building",
+      "title": "The castle garderobe",
+      "who": "Medieval castle builders",
+      "where": "England, Wales and across Europe",
+      "country": "United Kingdom",
+      "text": "Medieval castles had garderobes: small rooms with a seat over a simple hole. The waste dropped down a shaft to a cesspit or into the moat. Examples survive at Peveril Castle in Derbyshire and at Chirk Castle in Wales.",
+      "why": "It kept waste out of the living rooms but used no water at all, so nothing was washed away.",
+      "sources": [
+        7,
+        1
+      ]
+    },
+    {
+      "year": 1596,
+      "date": "1596",
+      "era": "closet",
+      "art": "quill",
+      "key": true,
+      "title": "Harington's water closet",
+      "who": "Sir John Harington",
+      "where": "Kelston, Somerset, England",
+      "country": "United Kingdom",
+      "text": "Harington, a godson of Queen Elizabeth I, built a flushing closet at his house at Kelston and described it in a book in 1596. A cistern above the seat held water, and a valve let it rush down to wash the bowl. He called it the Ajax, a play on ‘jakes’, an old word for a privy. One is said to have been put in at Richmond Palace for the Queen.",
+      "why": "It had a cistern, a flush valve and a wash-down bowl, but no trap, so smells could still come back up the pipe.",
+      "box": "cistern",
+      "sources": [
+        8,
+        9,
+        0
+      ]
+    },
+    {
+      "year": 1775,
+      "date": "11 November 1775",
+      "era": "closet",
+      "art": "gear",
+      "key": true,
+      "title": "The S-bend",
+      "who": "Alexander Cumming",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Cumming, a Scottish watchmaker working in London, was granted patent number 1105 for a flushing water closet. Below the bowl, the waste pipe curved into an S shape. Water stayed in the bend after every flush and blocked foul air from the drain.",
+      "why": "That little pool of water, the water seal, is still what keeps sewer gas out of every bathroom.",
+      "box": "trap",
+      "sources": [
+        10,
+        11,
+        0
+      ]
+    },
+    {
+      "year": 1778,
+      "date": "27 January 1778",
+      "era": "closet",
+      "art": "hydraulic",
+      "title": "Bramah's valve closet",
+      "who": "Joseph Bramah",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Bramah, who fitted water closets for a living, found faults in the designs he installed. His patent, number 1177, used a hinged flap to seal the bottom of the bowl and a handle that worked two valves at once. His closets were made well into the 1800s. He later invented the hydraulic press.",
+      "why": "It is often called the first practical flush toilet, though it was used mainly on boats.",
+      "box": "anatomy",
+      "sources": [
+        10,
+        12,
+        0
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1 May to 15 October 1851",
+      "era": "sewers",
+      "art": "window",
+      "key": true,
+      "title": "Spending a penny at the Great Exhibition",
+      "who": "George Jennings",
+      "where": "The Crystal Palace, Hyde Park, London, England",
+      "country": "United Kingdom",
+      "text": "Jennings, a sanitary engineer, fitted flushing closets in the Retiring Rooms of the Great Exhibition. During the exhibition 827,280 visitors paid one penny to use them. For the penny they got a clean seat, a towel, a comb and a shoe shine. He patented his improved closet on 23 August 1852.",
+      "why": "It showed that people would gladly pay for a clean public toilet, and public toilets became part of city life.",
+      "sources": [
+        13,
+        10,
+        0
+      ]
+    },
+    {
+      "year": 1854,
+      "date": "31 August to 8 September 1854",
+      "era": "sewers",
+      "art": "compass",
+      "title": "The Broad Street pump",
+      "who": "John Snow and Henry Whitehead",
+      "where": "Soho, London, England",
+      "country": "United Kingdom",
+      "text": "Cholera broke out around Broad Street, and 127 people nearby died in three days. The doctor John Snow traced the cases to one street pump. He spoke to the parish on 7 September and the pump handle was taken off the next day. A leaking cesspit was later found about three feet from the well.",
+      "why": "It showed that sewage in drinking water spreads disease, so toilets must send waste somewhere safe.",
+      "box": "drain",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1858,
+      "date": "July and August 1858",
+      "era": "sewers",
+      "art": "boat",
+      "key": true,
+      "title": "The Great Stink and London's sewers",
+      "who": "Joseph Bazalgette",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "More and more flush toilets emptied into old sewers that ran into the River Thames, and in the hot summer of 1858 the river stank so badly that Parliament acted. A law was passed on 2 August. From 1859 Bazalgette built 82 miles of main brick sewers, fed by about 1,100 miles of street sewers, to carry the waste away from the city.",
+      "why": "A flush toilet is only as good as the sewer it is joined to.",
+      "box": "drain",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1870,
+      "date": "1870–1890",
+      "era": "sewers",
+      "art": "flask",
+      "title": "The siphon in the bowl",
+      "who": "John Randall Mann, William Smith and William Howell",
+      "where": "USA",
+      "country": "United States",
+      "text": "In 1870 John Randall Mann was granted a patent for a siphonic closet fed by three pipes. William Smith patented a jet siphon closet in 1876, and in 1890 William Howell's design did away with the lower trap. In these bowls the outlet pipe fills with water and the siphon sucks the bowl empty.",
+      "why": "The siphonic bowl became the usual design in North America, while most of the world uses the wash-down bowl.",
+      "box": "flush",
+      "sources": [
+        12,
+        0
+      ]
+    },
+    {
+      "year": 1880,
+      "date": "1880s",
+      "era": "sewers",
+      "art": "wrench",
+      "title": "A plumber, not the inventor",
+      "who": "Thomas Crapper",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Crapper ran a London plumbing company and what is described as the world's first showroom for baths, toilets and sinks. He held nine patents, three of them for water closet improvements such as the floating ballcock, but none for the flush toilet itself. He supplied royal houses and won royal warrants.",
+      "why": "He made the flush toilet popular; he did not invent it, as the story often says.",
+      "box": "cistern",
+      "sources": [
+        17,
+        0
+      ]
+    },
+    {
+      "year": 1884,
+      "date": "1883–84",
+      "era": "sewers",
+      "art": "plate",
+      "key": true,
+      "title": "One piece of pottery",
+      "who": "Thomas William Twyford",
+      "where": "Hanley, Stoke-on-Trent, England",
+      "country": "United Kingdom",
+      "text": "Earlier closets were usually boxed in a wooden cabinet. Twyford's Unitas was a free-standing pedestal made entirely of fired clay, with the pan and the trap in one piece. It was sold around the world, and ‘unitaz’ is still the Russian word for a toilet.",
+      "why": "The bare ceramic pedestal, easy to clean all round, is the shape toilets still have.",
+      "box": "anatomy",
+      "sources": [
+        16,
+        10,
+        0
+      ]
+    },
+    {
+      "year": 1885,
+      "date": "1884–85",
+      "era": "sewers",
+      "art": "trophy",
+      "title": "The wash-down pedestal",
+      "who": "The Jennings company and Frederick Humpherson",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "At the 1884 International Health Exhibition, the Jennings Pedestal Vase won a gold medal. In a test, a flush of 2 gallons cleared ten apples, a flat sponge and four pieces of paper. In 1885 Frederick Humpherson of the Beaufort Works in Chelsea showed the modern pedestal wash-down toilet.",
+      "why": "In a wash-down bowl the water simply pushes the waste through the trap, the design used in India, Europe and most of the world.",
+      "box": "flush",
+      "sources": [
+        13,
+        0
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "1898",
+      "era": "sewers",
+      "art": "spring2",
+      "title": "A cistern with no valve to leak",
+      "who": "Albert Giblin",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Giblin received British patent 4,990 for the ‘Silent Valveless Water Waste Preventer’. Pulling the lever lifts a disc that throws water over the top of a bent tube, and the siphon then empties the cistern. There is no sealing washer to wear out. Britain required siphon cisterns until 1 January 2001, when valve flushes were allowed.",
+      "why": "A siphon cannot drip the way a worn valve does, and it is the reason older British toilets flush with a lever and a siphon.",
+      "box": "cistern",
+      "sources": [
+        17,
+        0
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "sewers",
+      "art": "tap",
+      "title": "The flush with no tank",
+      "who": "William Elvis Sloan",
+      "where": "Chicago, USA",
+      "country": "United States",
+      "text": "Sloan's Royal Flushometer was a valve that let a measured amount of water straight from the supply pipe into the bowl, with no cistern at all. He sold one in 1906 and two in 1907, then 150 by 1908.",
+      "why": "With no tank to refill, it can be flushed again straight away, which suits busy public toilets.",
+      "sources": [
+        18,
+        0
+      ]
+    },
+    {
+      "year": 1957,
+      "date": "1957",
+      "era": "saving",
+      "art": "spring2",
+      "title": "A float that rides the fill valve",
+      "who": "Adolf Schoepe",
+      "where": "USA",
+      "country": "United States",
+      "text": "The ballcock, a floating ball on an arm that shuts the water off as the tank fills, was described in 1790 by the Mexican priest and scientist José Antonio de Alzate y Ramírez. In 1957 Schoepe founded Fluidmaster and brought out a fill valve with a float cup that slides up the valve tower itself.",
+      "why": "The float cup takes less room than a ball on an arm, and it is now a common sight inside toilet tanks.",
+      "box": "cistern",
+      "sources": [
+        19,
+        0
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "everyone",
+      "art": "leaf",
+      "key": true,
+      "title": "Sulabh and the twin-pit toilet",
+      "who": "Bindeshwar Pathak",
+      "where": "Bihar, India",
+      "country": "India",
+      "text": "Pathak founded Sulabh to replace dry latrines that had to be emptied by hand. Its toilet has a steep squat pan and a shallow water seal, and is flushed by pouring in 1.5 to 2 litres of water. The waste runs to one of two pits. When the first pit is full the flow is switched to the second, and after about two years of rest the first holds dry, safe manure.",
+      "why": "It needs no sewer and very little water, and Sulabh says it has built more than 1.69 million household toilets.",
+      "box": "drain",
+      "sources": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "2 December 1975",
+      "era": "saving",
+      "art": "plane",
+      "title": "The vacuum toilet for aircraft",
+      "who": "James M. Kemper",
+      "where": "USA",
+      "country": "United States",
+      "text": "Kemper's patent, granted to Monogram Industries, used the difference between cabin pressure and a low-pressure waste tank to suck the bowl empty. Time magazine reports that the Kemper vacuum system first flew in a Boeing aircraft in 1982. A vacuum toilet can use less than a quarter of a litre of water per flush.",
+      "why": "Suction does the work of gravity and water, which saves a great deal of weight in the air.",
+      "sources": [
+        20,
+        21,
+        0
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "June 1980",
+      "era": "saving",
+      "art": "chip",
+      "title": "The Washlet",
+      "who": "TOTO",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "In the 1960s TOTO imported American ‘wash air seats’ for hospitals and nursing homes, and began making them in Japan in 1969. In June 1980 it launched the Washlet, an electric seat that washes the user with warm water. TOTO says it had sold 70 million by 2025.",
+      "why": "It turned the toilet seat into an electronic appliance.",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "saving",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Two buttons, two flushes",
+      "who": "Caroma",
+      "where": "Australia",
+      "country": "Australia",
+      "text": "TOTO had tried a dual-flush system in Japan in 1960, but it did not sell. In 1980 staff at the Australian company Caroma designed the first practical one: a full flush of 11 litres and a half flush of 5.5 litres. A redesign in 1994 cut this to 6 and 3 litres.",
+      "why": "Most visits need only the small flush, so the two-button cistern spread around the world.",
+      "box": "cistern",
+      "sources": [
+        24,
+        0
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "24 October 1992",
+      "era": "saving",
+      "art": "scales",
+      "key": true,
+      "title": "A legal limit on the flush",
+      "who": "United States Congress",
+      "where": "Washington, D.C., USA",
+      "country": "United States",
+      "text": "Older American toilets used about 13 litres a flush, and some as much as 6 gallons, nearly 23 litres. The Energy Policy Act of 1992 said that from 1994 common new toilets could use no more than 1.6 US gallons, about 6 litres. The WaterSense label, set up in 2006, goes further: 1.28 gallons, about 4.8 litres.",
+      "why": "Engineers had to redesign the bowl and trapway to clear the same waste with less than half the water.",
+      "box": "pans",
+      "sources": [
+        25,
+        26,
+        27,
+        0
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993 and 2013",
+      "era": "everyone",
+      "art": "word",
+      "title": "Laws against manual scavenging",
+      "who": "Parliament of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "Dry latrines have no water to carry waste away, so they had to be emptied by hand. This work is called manual scavenging. The Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act, 1993 banned this. The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 widened the ban to septic tanks, open drains and railway tracks. Government surveys in 2013 and 2018 identified 58,098 manual scavengers.",
+      "why": "A water-seal toilet joined to a pit, tank or sewer is also a matter of human dignity.",
+      "box": "drain",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "28 July 2010",
+      "era": "everyone",
+      "art": "earth",
+      "title": "Sanitation becomes a human right",
+      "who": "United Nations General Assembly",
+      "where": "New York, USA",
+      "country": "Worldwide",
+      "text": "In resolution 64/292 the UN General Assembly recognised the human right to water and sanitation. In 2013 it also made 19 November World Toilet Day, an idea started in 2001 by Jack Sim of Singapore and his World Toilet Organization.",
+      "why": "A safe toilet stopped being seen as a luxury and became something every person is owed.",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "18 January 2011",
+      "era": "everyone",
+      "art": "cell",
+      "title": "Bio-toilets on Indian trains",
+      "who": "Indian Railways and the Defence Research and Development Organisation (DRDO)",
+      "where": "Gwalior to Varanasi, India",
+      "country": "India",
+      "text": "Train toilets in India used to empty straight onto the track. Under an agreement signed in March 2010, Indian Railways and DRDO developed a tank of anaerobic bacteria that sits under the toilet and turns the waste into water and a little gas. The first set of coaches ran on the Bundelkhand Express from 18 January 2011. By 2020 the Railways reported more than 245,400 bio-toilets in 68,800 coaches.",
+      "why": "It treats the waste on board, with living bacteria doing the work a sewer would do.",
+      "sources": [
+        37,
+        36,
+        38
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2011",
+      "era": "everyone",
+      "art": "bolt",
+      "title": "Reinvent the Toilet",
+      "who": "Gates Foundation",
+      "where": "Seattle, USA",
+      "country": "United States",
+      "text": "The foundation challenged researchers to design a toilet that kills germs and recovers water, energy or nutrients. It must work with no sewer or water connection and very little electricity, and cost less than 5 US cents per user per day. Fairs followed in Seattle in 2012, Delhi in 2014 and Beijing in 2018.",
+      "why": "The flush toilet needs piped water and a sewer, which billions of people do not have.",
+      "sources": [
+        41
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2 October 2014",
+      "era": "everyone",
+      "art": "building",
+      "key": true,
+      "title": "Swachh Bharat Mission",
+      "who": "Government of India",
+      "where": "Rajghat, New Delhi, India",
+      "country": "India",
+      "text": "India had run a national rural sanitation programme since 1986, followed by new ones in 1999 and 2012. On 2 October 2014 Prime Minister Narendra Modi launched the Swachh Bharat Mission. The government says more than 100 million toilets were built in rural India, and that every village had declared itself free of open defecation by 2 October 2019. WHO and UNICEF estimates put open defecation at about 7% of people in India in 2024.",
+      "why": "India had more people practising open defecation than any other country, so its progress changed the numbers for the whole world.",
+      "box": "drain",
+      "sources": [
+        34,
+        33,
+        35,
+        44
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "26 August 2025",
+      "era": "everyone",
+      "art": "earth",
+      "key": true,
+      "title": "Still 3.4 billion to go",
+      "who": "WHO and UNICEF",
+      "where": "Geneva and New York",
+      "country": "Worldwide",
+      "text": "The WHO and UNICEF reported that 3.4 billion people still lack safely managed sanitation, and 354 million of them practise open defecation. The share of the world's people practising open defecation fell from about 21% in 2000 to about 4% in 2024.",
+      "why": "The toilet is 4,500 years old, and the job of bringing a safe one to everyone is not finished.",
+      "sources": [
+        42,
+        43,
+        44
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Toilets flushed with water into brick drains",
+      "value": "c. 2500 BCE",
+      "who": "Indus Valley cities, Pakistan and India"
+    },
+    {
+      "label": "Described flushing closet with a cistern and valve",
+      "value": "1596",
+      "who": "John Harington, England"
+    },
+    {
+      "label": "Patent for a flushing closet with a water-seal trap",
+      "value": "1775",
+      "who": "Alexander Cumming, Scotland and England"
+    },
+    {
+      "label": "Paid public flush toilets at a great event",
+      "value": "1851",
+      "who": "George Jennings, England"
+    },
+    {
+      "label": "Patent for a siphonic closet",
+      "value": "1870",
+      "who": "John Randall Mann, USA"
+    },
+    {
+      "label": "All-ceramic, one-piece, free-standing pedestal closet",
+      "value": "1883–84",
+      "who": "Thomas William Twyford, England"
+    },
+    {
+      "label": "Flush valve that needs no cistern",
+      "value": "1906",
+      "who": "William Elvis Sloan, USA"
+    },
+    {
+      "label": "Practical dual-flush cistern",
+      "value": "1980",
+      "who": "Caroma, Australia"
+    },
+    {
+      "label": "Electronic seat that washes with warm water",
+      "value": "1980",
+      "who": "TOTO, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "John Harington",
+      "life": "1560 – 1612",
+      "role": "Courtier and writer",
+      "from": "England",
+      "note": "Godson of Elizabeth I who built and described a flushing closet in 1596."
+    },
+    {
+      "name": "Alexander Cumming",
+      "life": "1731/32 – 1814",
+      "role": "Watchmaker and inventor",
+      "from": "Scotland",
+      "note": "Patented the S-bend trap that keeps a seal of water in the pipe."
+    },
+    {
+      "name": "Joseph Bramah",
+      "life": "1748 – 1814",
+      "role": "Inventor and locksmith",
+      "from": "England",
+      "note": "Patented a valve closet with a hinged flap in 1778, and later the hydraulic press."
+    },
+    {
+      "name": "George Jennings",
+      "life": "1810 – 1882",
+      "role": "Sanitary engineer",
+      "from": "England",
+      "note": "Put flush toilets in the Great Exhibition of 1851 and championed public toilets."
+    },
+    {
+      "name": "Joseph Bazalgette",
+      "life": "1819 – 1891",
+      "role": "Civil engineer",
+      "from": "England",
+      "note": "Built London's main sewers after the Great Stink of 1858."
+    },
+    {
+      "name": "John Snow",
+      "life": "1813 – 1858",
+      "role": "Physician",
+      "from": "England",
+      "note": "Traced the 1854 Soho cholera outbreak to a pump whose well was fouled by a cesspit."
+    },
+    {
+      "name": "Thomas William Twyford",
+      "life": "1849 – 1921",
+      "role": "Potter and manufacturer",
+      "from": "England",
+      "note": "Made the Unitas, a free-standing closet formed entirely from ceramic."
+    },
+    {
+      "name": "Thomas Crapper",
+      "life": "1836 – 1910",
+      "role": "Plumber and businessman",
+      "from": "England",
+      "note": "Sold and promoted flush toilets and held nine plumbing patents, but did not invent the toilet."
+    },
+    {
+      "name": "Adolf Schoepe",
+      "life": "1904 – 2001",
+      "role": "Manufacturer",
+      "from": "Germany and USA",
+      "note": "Founded Fluidmaster in 1957 and made the float-cup fill valve common."
+    },
+    {
+      "name": "Bindeshwar Pathak",
+      "life": "1943 – 2023",
+      "role": "Sociologist and social reformer",
+      "from": "India",
+      "note": "Founded Sulabh in 1970 and spread the twin-pit pour-flush toilet. Awarded the Padma Bhushan, the Stockholm Water Prize and, after his death, the Padma Vibhushan."
+    },
+    {
+      "name": "Usha Chaumar",
+      "life": "born 1978",
+      "role": "Social worker",
+      "from": "India",
+      "note": "Once a manual scavenger in Rajasthan, she became president of Sulabh's social service organisation and received the Padma Shri in 2020."
+    },
+    {
+      "name": "Bezwada Wilson",
+      "life": "born 1966",
+      "role": "Human rights activist",
+      "from": "India",
+      "note": "A founder of the Safai Karmachari Andolan (1994), which campaigns to end manual scavenging. Won the Ramon Magsaysay Award in 2016."
+    }
+  ],
+  "series": [
+    {
+      "id": "odindia",
+      "title": "People in India practising open defecation",
+      "unit": "% of population",
+      "log": false,
+      "after": "everyone",
+      "caption": "WHO and UNICEF estimates for India: from nearly three people in four in 2000 to about one in fifteen in 2024.",
+      "points": [
+        {
+          "year": 2000,
+          "value": 73.2,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 73.2%"
+        },
+        {
+          "year": 2005,
+          "value": 58.6,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 58.6%"
+        },
+        {
+          "year": 2010,
+          "value": 44.4,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 44.4%"
+        },
+        {
+          "year": 2015,
+          "value": 30.6,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 30.6%"
+        },
+        {
+          "year": 2020,
+          "value": 17.0,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 17.0%"
+        },
+        {
+          "year": 2022,
+          "value": 11.7,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 11.7%"
+        },
+        {
+          "year": 2024,
+          "value": 6.7,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 6.7%"
+        }
+      ]
+    },
+    {
+      "id": "odworld",
+      "title": "People in the world practising open defecation",
+      "unit": "% of population",
+      "log": false,
+      "after": "everyone",
+      "caption": "WHO and UNICEF estimates for the whole world: the share fell by about four fifths between 2000 and 2024.",
+      "points": [
+        {
+          "year": 2000,
+          "value": 21.1,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 21.1%"
+        },
+        {
+          "year": 2005,
+          "value": 17.7,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 17.7%"
+        },
+        {
+          "year": 2010,
+          "value": 14.0,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 14.0%"
+        },
+        {
+          "year": 2015,
+          "value": 10.5,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 10.5%"
+        },
+        {
+          "year": 2020,
+          "value": 7.1,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 7.1%"
+        },
+        {
+          "year": 2024,
+          "value": 4.3,
+          "label": "WHO/UNICEF JMP (2025 data, via Our World in Data): 4.3%; the JMP report counts 354 million people"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "At the Great Exhibition of 1851, 827,280 visitors paid one penny each to use George Jennings's flush toilets. In Britain people still say they are going to ‘spend a penny’.",
+    "Thomas Crapper did not invent the flush toilet. He held nine plumbing patents, but none for the toilet itself.",
+    "Twyford's 1880s Unitas closet was sold so widely that ‘unitaz’ became the Russian word for a toilet.",
+    "A pour-flush squat pan with a twin pit needs only 1.5 to 2 litres of water a flush, says Sulabh, against 10 to 12 litres for an old cistern.",
+    "Toilets use nearly 30% of the water used indoors in an average American home, says the US Environmental Protection Agency.",
+    "William Sloan sold just one Flushometer in 1906 and two in 1907. Sales then took off, with 150 sold by 1908."
+  ],
+  "sources": [
+    {
+      "title": "Flush toilet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flush_toilet"
+    },
+    {
+      "title": "Toilet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toilet"
+    },
+    {
+      "title": "Sanitation of the Indus Valley Civilisation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation"
+    },
+    {
+      "title": "Ancient hydraulic works: toilet at the Palace of Knossos",
+      "publisher": "National Technical University of Athens (ITIA)",
+      "url": "https://www.itia.ntua.gr/ahw/work/75"
+    },
+    {
+      "title": "Cloaca Maxima",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cloaca_Maxima"
+    },
+    {
+      "title": "Flush toilet found at the Yueyang City Ruins",
+      "publisher": "China Daily",
+      "url": "https://language.chinadaily.com.cn/a/202302/22/WS63f5e3a3a31057c47ebb03e3.html"
+    },
+    {
+      "title": "Sanitation in ancient Rome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanitation_in_ancient_Rome"
+    },
+    {
+      "title": "Garderobe",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Garderobe"
+    },
+    {
+      "title": "John Harington (writer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Harington_(writer)"
+    },
+    {
+      "title": "20 November: Elizabeth I's godson and his flush toilet",
+      "publisher": "The Tudor Society",
+      "url": "https://www.tudorsociety.com/20-november-elizabeth-is-godson-and-his-flush-toilet/"
+    },
+    {
+      "title": "Toilet design: patents and registered designs in pictures",
+      "publisher": "The National Archives (UK)",
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-topic/business-finance-and-innovation/toilet-design/"
+    },
+    {
+      "title": "Alexander Cumming",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Cumming"
+    },
+    {
+      "title": "The Men That Made the Water Closet",
+      "publisher": "ThePlumber.com",
+      "url": "https://www.theplumber.com/closet.html"
+    },
+    {
+      "title": "George Jennings",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Jennings"
+    },
+    {
+      "title": "1854 Broad Street cholera outbreak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak"
+    },
+    {
+      "title": "Great Stink",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Stink"
+    },
+    {
+      "title": "Twyford Bathrooms",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Twyford_Bathrooms"
+    },
+    {
+      "title": "Thomas Crapper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Crapper"
+    },
+    {
+      "title": "Sloan Valve Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sloan_Valve_Company"
+    },
+    {
+      "title": "Ballcock",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ballcock"
+    },
+    {
+      "title": "US Patent 3,922,730: Recirculating toilet system for use in aircraft or the like",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US3922730A/en"
+    },
+    {
+      "title": "How airplane toilets work",
+      "publisher": "Time",
+      "url": "https://time.com/4726754/how-airplane-toilets-work"
+    },
+    {
+      "title": "Washlet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Washlet"
+    },
+    {
+      "title": "WASHLET history",
+      "publisher": "TOTO",
+      "url": "https://eu.toto.com/en/about-us/washlet-history"
+    },
+    {
+      "title": "Dual flush toilet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dual_flush_toilet"
+    },
+    {
+      "title": "Energy Policy Act of 1992",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Energy_Policy_Act_of_1992"
+    },
+    {
+      "title": "Residential Toilets",
+      "publisher": "U.S. Environmental Protection Agency, WaterSense",
+      "url": "https://www.epa.gov/watersense/residential-toilets"
+    },
+    {
+      "title": "WaterSense",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/WaterSense"
+    },
+    {
+      "title": "Two-pit pour-flush toilet (Sulabh Shauchalaya)",
+      "publisher": "Sulabh International",
+      "url": "https://www.sulabhinternational.org/?p=16425"
+    },
+    {
+      "title": "Sulabh International: our work in numbers",
+      "publisher": "Sulabh International",
+      "url": "https://www.sulabhinternational.org/"
+    },
+    {
+      "title": "Bindeshwar Pathak",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bindeshwar_Pathak"
+    },
+    {
+      "title": "Manual scavenging",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manual_scavenging"
+    },
+    {
+      "title": "Achievements under the Self Employment Scheme for Rehabilitation of Manual Scavengers (2023)",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/aug/doc2023825245301.pdf"
+    },
+    {
+      "title": "Swachh Bharat Mission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swachh_Bharat_Mission"
+    },
+    {
+      "title": "About Swachh Bharat Mission (Grameen)",
+      "publisher": "Department of Drinking Water and Sanitation, Government of India",
+      "url": "https://swachhbharatmission.ddws.gov.in/about-us"
+    },
+    {
+      "title": "India builds 11 crore toilets under Swachh Bharat Mission",
+      "publisher": "News On AIR (Akashvani)",
+      "url": "https://www.newsonair.gov.in/india-builds-11-crore-toilets-under-swachh-bharat-mission"
+    },
+    {
+      "title": "On green track: bio-toilets in Indian trains",
+      "publisher": "Down To Earth",
+      "url": "https://www.downtoearth.org.in/environment/on-green-track-42567"
+    },
+    {
+      "title": "Fact-check: when were bio-toilets introduced in Indian Railways?",
+      "publisher": "The Quint",
+      "url": "https://www.thequint.com/amp/story/news/webqoof/bio-toilets-installed-railways-nda-government-fact-check"
+    },
+    {
+      "title": "Indian Railways installs bio-toilets in 68,800 coaches",
+      "publisher": "EastMojo",
+      "url": "https://eastmojo.com/news/2020/06/06/good-news-indian-railways-installs-bio-toilets-in-68800-coaches/"
+    },
+    {
+      "title": "Human right to water and sanitation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Human_right_to_water_and_sanitation"
+    },
+    {
+      "title": "World Toilet Day",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/World_Toilet_Day"
+    },
+    {
+      "title": "Reinvent the Toilet Challenge and Expo",
+      "publisher": "Gates Foundation",
+      "url": "https://www.gatesfoundation.org/our-work/programs/global-growth-and-opportunity/water-sanitation-and-hygiene/reinvent-the-toilet-challenge-and-expo"
+    },
+    {
+      "title": "1 in 4 people globally still lack access to safe drinking water (news release, 26 August 2025)",
+      "publisher": "World Health Organization and UNICEF",
+      "url": "https://www.who.int/news/item/26-08-2025-1-in-4-people-globally-still-lack-access-to-safe-drinking-water---who--unicef"
+    },
+    {
+      "title": "Progress on household drinking water, sanitation and hygiene 2000–2024: special focus on inequalities",
+      "publisher": "WHO/UNICEF Joint Monitoring Programme",
+      "url": "https://washdata.org/reports/jmp-2025-wash-households"
+    },
+    {
+      "title": "Share of people practicing open defecation (WHO/UNICEF JMP 2025 data)",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/grapher/people-practicing-open-defecation-of-population"
+    },
+    {
+      "title": "Usha Chaumar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Usha_Chaumar"
+    },
+    {
+      "title": "Bezwada Wilson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bezwada_Wilson"
+    }
+  ]
+}
